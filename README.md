@@ -7,7 +7,7 @@
 
   - No 1-5 (NodeJs)
     - jika belum terinstall node js maka install dahulu
-  - No 6a (HTML & CSS (Bootstrap)
+  - No 6b (HTML & CSS (Bootstrap)
   - No 6c (CodeIgniter 3)
 
 # Tools!
