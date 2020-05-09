@@ -13,4 +13,4 @@ const count_vowels = (input) => {
 };
 
 console.log(count_vowels("programmer"));
-console.log(count_vowels("‘hmm.."));
+console.log(count_vowels("hmm.."));
