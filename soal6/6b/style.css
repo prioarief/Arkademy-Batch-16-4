@@ -1,3 +1,8 @@
+/* body{
+  font-family: 'Airbnb Cereal App' !important;
+  font-style: normal !important;
+} */
+
 .search{
     width: 900px !important;
     background-color: #CECECE !important;
@@ -5,4 +10,13 @@
 
 .thead{
     border-radius: 120px !important;
+}
+
+.buttonAdd{
+  width: 100px !important;
+  border-color: white !important;
+}
+
+p{
+  color: rgb(238, 238, 14) !important;
 }
