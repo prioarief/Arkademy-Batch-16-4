@@ -23,8 +23,7 @@ const splicing = (str, search) => {
       arr.push(splitted);
     }
   }
-  return arr;
+  return arr.length;
 };
 
-// console.log(frasa("banananana", "nana"));
-console.log(splicing("banananana", "nana"))
+console.log(frasa("banananana", "nana"));
