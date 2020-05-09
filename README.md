@@ -20,7 +20,7 @@
 # Cara Menjalankan
 
   - No 1-5
-    - run dengan perintah node spasi nafa_file. contoh node soal1.js
+    - run dengan perintah node spasi nama_file. contoh node soal1.js
   - No 6b
     - masuk ke folder 6b lalu pilih index.html lalu open with browser / klik 2 kali
 
